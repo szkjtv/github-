@@ -2,11 +2,11 @@
 
 ###### 第一步：去github上创建自己的Repository，创建页面如下图所示：
 
-![1569048665321](C:\Users\DELL\Desktop\github-\img\1569048665321.png)
+![1569048665321](C:\Users\DELL\Desktop\github-\image\1569048665321.png)
 
 ###### 红框为新建的仓库的https地址
 
-![1569048761317](C:\Users\DELL\Desktop\github-\img\1569048761317.png)
+![1569048761317](C:\Users\DELL\Desktop\github-\image\1569048761317.png)
 
 ###### 第二步：
 
