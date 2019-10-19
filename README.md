@@ -53,7 +53,7 @@ git pull origin master
 ###### 第九步：上传代码到GitHub远程仓库
 
 ```
-git push -u origin master
+git push -u origin master   //有时候直接可以git push  origin master(master)这里可以换个新的分支名
 ```
 
 #### 中间可能会让你输入Username和Password，你只要输入github的账号和密码就行了。执行完后，如果没有异常，等待执行完就上传成功了。
